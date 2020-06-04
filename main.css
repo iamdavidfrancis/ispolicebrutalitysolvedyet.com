@@ -11,6 +11,10 @@ body {
   align-items: center;
   margin: 0;
   padding: 0px;
+  
+  font-family: sirenne-text-mvb-swash-itali,serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .title {
