@@ -26,3 +26,7 @@ body {
 .subtitle {
  font-size: 2rem; 
 }
+
+a {
+  color: #FFF;
+}
